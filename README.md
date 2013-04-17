@@ -1,4 +1,6 @@
 platform-platform
 =================
 
-A platform for developing for our platform - a dev environment for Chef, Puppet, Ruby etc.
+A dev environment for Chef, Puppet, Ruby etc.
+
+The goal is to try and do something a little different with Vagrant - this is an experiment for now.
